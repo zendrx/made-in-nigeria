@@ -23,7 +23,10 @@
 - [Angular-tag](https://github.com/theo4u/angular-tag) - Tags input directive for AngularJS. **By [@theo4me](https://twitter.com/theo4me)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
 - [Angular2-Sails-starter-pack](https://github.com/Mozartted/Angular2-Sails-starter-pack) - A starter pack for angular2 based projects using sails backend, integrating hot reload functionalities. **By [@mozartted](https://twitter.com/mozartted)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
 - [Angular4-paystack](https://github.com/ashinzekene/angular4-paystack) - This is an angular module that abstracts the complexity of making paystack payments with Angular2+. **By [@ashinzekene](https://twitter.com/ashinzekene)**
-- [AnimatedCountTextView](https://github.com/r4sh33d/AnimatedCountTextView) - A library that helps you animate change in numeric values in an Android TextView. **By [@srasheed](https://twitter.com/srasheed_)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
+- [AnimatedCountTextView](https://github.com/r4sh33d/AnimatedCountTextView) - A library that helps you animate change in numeric values in an Android TextView. **By [@srasheed](https://twitter.com/srasheed_)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive
+- [Anv](https://github.com/slick-lab/.anv) - This is a secure manager that aims to replace .env. **By [@zendrx]
+
+</span>
 - [AppFramer](https://github.com/olucurious/AppFramer) - AppFramer helps to put your app screenshots in beautiful device frames with annotations by running a simple command. **By [@olucurious](https://twitter.com/olucurious)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
 - [APX](https://github.com/othreecodes/APX) - A Javafx Library for building MVC Applications. **By [@othreecodes](https://twitter.com/othreecodes)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
 - [Article Idea Generator](https://github.com/Olanetsoft/article-idea-generator) - This simple tool generates article ideas and abstract drafts for your blog or website. It's a great way to get started with your content marketing strategy. **By [@olanetsoft](https://twitter.com/olanetsoft)**
